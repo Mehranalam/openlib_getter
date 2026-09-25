@@ -8,6 +8,7 @@ and save the results to a CSV file.
 - John Ronald Reuel Tolkien (3 January 1892 – 2 September 1973) was an English writer and academic philologist. He was the author of the high fantasy works `The Hobbit` (1937) and `The Lord of the Rings` (1954–1955).
 
 ![dd](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/250px-J._R._R._Tolkien%2C_ca._1925.jpg)
+
 Features
 - Query Open Library search by author and sort order
 - Collect up to 50 documents from the response
